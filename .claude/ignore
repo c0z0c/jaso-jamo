@@ -1,0 +1,10 @@
+logs/
+_layouts/
+_assets/
+_includes/
+.data/
+.env
+.gitignore
+index.md
+
+
